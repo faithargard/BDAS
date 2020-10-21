@@ -1,0 +1,22 @@
+<employees>
+    <employee id="101">
+        <firstname>Peter</firstname>
+        <lastname>Griffin</lastname>
+        <location>Oklahoma</location>
+    </employee>
+    <employee id="102">
+        <firstname>Luis</firstname>
+        <lastname>Miguel</lastname>
+        <location>Puerto-Rico</location>
+    </employee>
+    <employee id="103">
+        <firstname>Kim</firstname>
+        <lastname>Clijsters</lastname>
+        <location>Niderlands</location>
+    </employee>
+    <employee id="104">
+        <firstname>Antony</firstname>
+        <lastname>Jovanna</lastname>
+        <location>Italy</location>
+    </employee>
+</employees>
